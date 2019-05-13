@@ -1,0 +1,87 @@
+Program is found
+Stmt-Sequence is found
+Statement is found
+Read Statement is found
+read
+x
+;
+Statement is found
+IF Statement found
+if
+exp is found
+simple-exp is found
+term is found
+factor is found
+0
+comparison-op is found
+<
+simple-exp is found
+term is found
+factor is found
+x
+then
+Stmt-Sequence is found
+Statement is found
+Assign Statement found
+fact
+:=
+exp is found
+simple-exp is found
+term is found
+factor is found
+1
+;
+Statement is found
+Repeat Statement Found
+repeat
+Stmt-Sequence is found
+Statement is found
+Assign Statement found
+fact
+:=
+exp is found
+simple-exp is found
+term is found
+factor is found
+fact
+mulop is found
+*
+factor is found
+x
+;
+Statement is found
+Assign Statement found
+x
+:=
+exp is found
+simple-exp is found
+term is found
+factor is found
+x
+addop is found
+-
+term is found
+factor is found
+1
+until
+exp is found
+simple-exp is found
+term is found
+factor is found
+x
+comparison-op is found
+=
+simple-exp is found
+term is found
+factor is found
+0
+;
+Statement is found
+Write Statement is found
+write
+exp is found
+simple-exp is found
+term is found
+factor is found
+fact
+end
